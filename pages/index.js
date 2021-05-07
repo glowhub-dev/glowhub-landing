@@ -63,17 +63,17 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="mx-auto" style={{ marginTop: '100px', maxWidth: '1200px' }}>
+      <section className="mx-auto glow__container">
         <div className="text-center">
           <h1>All in one developers tool</h1>
           <p className="subtitle__p">A single script for 3 powerful tools</p>
         </div>
 
-        <div className="mt-5 row gx-5 align-items-center">
-          <div className="col-lg-6">
+        <div className="mt-2 mt-lg-5 row gx-5 align-items-center">
+          <div className="col-md-6 mb-3 mb-md-0">
             <img src="/script.png" className="w-100" />
           </div>
-          <div className="col-lg-6">
+          <div className="col-md-6">
             <h5><FaCheckCircle className="me-1" style={{ marginTop: '-3px' }} /> Single Script</h5>
             <p>Lorem impsul dolor sit ament ruka no se que más se puede poner</p>
             <br />
@@ -86,17 +86,17 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="mx-auto" style={{ marginTop: '100px', maxWidth: '1200px' }}>
+      <section className="mx-auto glow__container">
         <div className="text-center">
           <h1>Designed for privacy</h1>
           <p className="subtitle__p">The most powerful and customizable cookie banner</p>
         </div>
 
-        <div className="mt-5 row gx-5 align-items-center justify-content-center">
-          <div className="col-lg-5">
+        <div className="mt-2 mt-lg-5 row gx-5 align-items-center justify-content-center">
+          <div className="col-md-5 mb-3 mb-md-0">
             <img src="/banner.png" className="w-100" />
           </div>
-          <div className="col-lg-6">
+          <div className="col-md-6">
             <h5>Do you accept cookies?</h5>
             <p>Lorem impsul dolor sit ament ruka no se que más se puede poner, Lorem impsul dolor sit ament ruka no se que más se puede poner</p>
 
@@ -106,17 +106,17 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="mx-auto" style={{ marginTop: '100px', maxWidth: '1200px' }}>
+      <section className="mx-auto glow__container">
         <div className="text-center">
           <h1>Designed for real data</h1>
           <p className="subtitle__p">The most powerful and customizable cookie banner</p>
         </div>
 
-        <div className="mt-5 row gx-5 align-items-center justify-content-center">
-          <div className="col-lg-5">
+        <div className="mt-2 mt-lg-5 row gx-5 align-items-center justify-content-center">
+          <div className="col-md-5 mb-3 mb-md-0">
             <img src="/data.png" className="w-100" />
           </div>
-          <div className="col-lg-6">
+          <div className="col-md-6">
             <h5>Do you accept cookies?</h5>
             <p>Lorem impsul dolor sit ament ruka no se que más se puede poner, Lorem impsul dolor sit ament ruka no se que más se puede poner</p>
 
@@ -126,17 +126,17 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="mx-auto" style={{ marginTop: '100px', maxWidth: '1200px' }}>
+      <section className="mx-auto glow__container">
         <div className="text-center">
           <h1>Designed for real, real data</h1>
           <p className="subtitle__p">The most powerful and customizable cookie banner</p>
         </div>
 
-        <div className="mt-5 row gx-5 align-items-center justify-content-center">
-          <div className="col-lg-5">
+        <div className="mt-2 mt-lg-5 row gx-5 align-items-center justify-content-center">
+          <div className="col-md-5 mb-3 mb-md-0">
             <img src="/feedback.png" className="w-100" />
           </div>
-          <div className="col-lg-6">
+          <div className="col-md-6">
             <h5>Do you accept cookies?</h5>
             <p>Lorem impsul dolor sit ament ruka no se que más se puede poner, Lorem impsul dolor sit ament ruka no se que más se puede poner</p>
 
