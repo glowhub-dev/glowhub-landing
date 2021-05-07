@@ -90,7 +90,7 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="mx-auto glow__container">
+        <section className="mx-auto glow__container" id="cookies">
           <div className="text-center">
             <h1>Designed for <span className="underline__cookies">privacy</span></h1>
             <p className="subtitle__p">The most powerful and customizable cookie banner</p>
@@ -110,7 +110,7 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="mx-auto glow__container">
+        <section className="mx-auto glow__container" id="analytics">
           <div className="text-center">
             <h1>Designed for <span className="underline__analytics">real data</span></h1>
             <p className="subtitle__p">The most powerful and customizable cookie banner</p>
@@ -130,7 +130,7 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="mx-auto glow__container">
+        <section className="mx-auto glow__container" id="feedback">
           <div className="text-center">
             <h1>Designed for <span className="underline__feedback">real, real data</span></h1>
             <p className="subtitle__p">The most powerful and customizable cookie banner</p>
