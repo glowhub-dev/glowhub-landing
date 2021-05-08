@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Navbar from '../components/Navbar'
 import styles from '../styles/Home.module.css'
-import { FaArrowRight, FaCheckCircle } from "react-icons/fa";
+import { FaArrowRight } from "react-icons/fa";
 import Footer from '../components/Footer';
 
 export default function Pricing() {

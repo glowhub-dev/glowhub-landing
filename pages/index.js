@@ -127,10 +127,10 @@ export default function Home() {
             </div>
             <div className="col-md-6">
               <h5>Do you accept cookies?</h5>
-              <p>Lorem impsul dolor sit ament ruka no se que más se puede poner, Lorem impsul dolor sit ament ruka no se que más se puede poner</p>
+              <p>Only if the user accepts cookies we will install our tracking cookie to remember the user.</p>
 
               <h5>or not?</h5>
-              <p>Lorem impsul dolor sit ament ruka no se que más se puede poner, Lorem impsul dolor sit ament ruka no se que más se puede poner</p>
+              <p>If the user chooses not to accept cookies, we will track them in a more moderate way and respect their privacy 100%.</p>
             </div>
           </div>
         </section>
@@ -138,7 +138,7 @@ export default function Home() {
         <section className="mx-auto glow__container" id="analytics">
           <div className="text-center">
             <h1>Designed for <span className="underline__analytics">real data</span></h1>
-            <p className="subtitle__p">The most powerful and customizable cookie banner</p>
+            <p className="subtitle__p">Powerful web analytics with improved users privacy</p>
           </div>
 
           <div className="mt-2 mt-lg-5 row gx-5 align-items-center justify-content-center">
@@ -146,11 +146,11 @@ export default function Home() {
               <img src="/data.png" className="w-100" />
             </div>
             <div className="col-md-6">
-              <h5>Do you accept cookies?</h5>
-              <p>Lorem impsul dolor sit ament ruka no se que más se puede poner, Lorem impsul dolor sit ament ruka no se que más se puede poner</p>
+              <h5>Web views tracking</h5>
+              <p>Get filtered and curated information about users' visits to your website and the time they spend on your site.</p>
 
-              <h5>or not?</h5>
-              <p>Lorem impsul dolor sit ament ruka no se que más se puede poner, Lorem impsul dolor sit ament ruka no se que más se puede poner</p>
+              <h5>Users online</h5>
+              <p>Advanced online user tracking with visit information, referring domains, location, browsers, os, etc.</p>
             </div>
           </div>
         </section>
@@ -158,7 +158,7 @@ export default function Home() {
         <section className="mx-auto glow__container" id="feedback">
           <div className="text-center">
             <h1>Designed for <span className="underline__feedback">real, real data</span></h1>
-            <p className="subtitle__p">The most powerful and customizable cookie banner</p>
+            <p className="subtitle__p">Powerful and customizable feedback banner</p>
           </div>
 
           <div className="mt-2 mt-lg-5 row gx-5 align-items-center justify-content-center">
@@ -166,11 +166,11 @@ export default function Home() {
               <img src="/feedback.png" className="w-100" />
             </div>
             <div className="col-md-6">
-              <h5>Do you accept cookies?</h5>
-              <p>Lorem impsul dolor sit ament ruka no se que más se puede poner, Lorem impsul dolor sit ament ruka no se que más se puede poner</p>
+              <h5>you like the experience?</h5>
+              <p>know at a glance if your product is making a good impression on your customers.</p>
 
               <h5>or not?</h5>
-              <p>Lorem impsul dolor sit ament ruka no se que más se puede poner, Lorem impsul dolor sit ament ruka no se que más se puede poner</p>
+              <p>It is also important to know the negative opinions in order to be able to solve the errors.</p>
             </div>
           </div>
         </section>
