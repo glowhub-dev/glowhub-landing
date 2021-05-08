@@ -95,7 +95,7 @@ export default function Pricing() {
             <p className="mb-0 glow__muted">Each plan corresponds to a single account and resources cannot be shared between them.</p>
             <p className="glow__muted">
               Each plan is subject to our fair use policy and its respective platform limits.
-              Free plam are limited to personal, non-commercial use.
+              Free plan are limited to personal, non-commercial use.
             </p>
           </div>
 
